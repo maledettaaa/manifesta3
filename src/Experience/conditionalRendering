@@ -1,0 +1,6 @@
+{selectedImage && showInfoWindow && (
+  <InfoWindow 
+    image={imagesData[selectedImageIndex]}
+    position={planePositions[selectedImageIndex]}
+  />
+)}

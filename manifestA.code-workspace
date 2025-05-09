@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "manifestA",
+			"path": "."
+		},
+		{
+			"name": "public",
+			"path": "../../../.Trash/public"
+		}
+	],
+	"settings": {}
+}

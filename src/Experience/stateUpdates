@@ -1,0 +1,4 @@
+// When clicking an image
+setSelectedImage({ id, path, position });
+setSelectedImageIndex(index);
+setShowInfoWindow(true);

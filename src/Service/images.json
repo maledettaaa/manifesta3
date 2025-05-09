@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "path": "assets/img/5810037836416665138.jpg",
+    "description": "Descrizione per Immagine 1",
+    "title": "Image One",
+    "details": "This is a detailed description of the first image. It can contain multiple sentences and provide context about the artwork.",
+    "position": [4, 2, 3]
+  },
+  {
+    "id": 2,
+    "path": "assets/img/MANIFESTO.jpg",
+    "description": "cacca pupu",
+    "title": "Manifesto",
+    "details": "The manifesto represents our core values and artistic vision. It embodies the essence of our creative philosophy.",
+    "position": [2, 1, 0]
+  },
+  {
+    "id": 3,
+    "path": "assets/img/manifestoCopia.jpg",
+    "description": "Descrizione per Immagine 3",
+    "title": "Manifesto Copy",
+    "details": "A variation on the original manifesto, exploring alternative perspectives and interpretations of our artistic approach.",
+    "position": [-1, 3, 2]
+  }, 
+  {
+    "id": 4, 
+    "path": "assets/img/5841245871948284695.jpg",
+    "description": "Descrizione per Immagine 4",
+    "title": "Abstract Composition",
+    "details": "An abstract composition that plays with form, color, and texture to evoke emotional responses from viewers.",
+    "position": [0, -2, 1]
+  }, 
+  {
+    "id": 5, 
+    "path": "assets/img/5884215349002487148.jpg",
+    "description": "Descrizione per Immagine 5",
+    "title": "Visual Exploration",
+    "details": "This piece explores the boundaries between perception and reality, inviting viewers to question their understanding of visual space.",
+    "position": [-3, 0, -1]
+  }, 
+  {
+    "id": 6, 
+    "path": "assets/img/5913485980621456656.jpg",
+    "description": "Descrizione per Immagine 6",
+    "title": "Conceptual Study",
+    "details": "A conceptual study examining the relationship between form and function in contemporary artistic practice.",
+    "position": [3, -1, -2]
+  }, 
+  {
+    "id": 7, 
+    "path": "assets/img/6012662462022797111.jpg",
+    "description": "Descrizione per Immagine 7",
+    "title": "Experimental Work",
+    "details": "An experimental work that pushes the boundaries of traditional media and explores new possibilities in visual expression.",
+    "position": [1, 4, -3]
+  } 
+]
+ 
